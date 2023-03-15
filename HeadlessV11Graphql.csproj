@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Nikcio.UHeadless" Version="3.2.0" />
-    <PackageReference Include="Umbraco.Cms" Version="11.0.0" />
+    <PackageReference Include="Nikcio.UHeadless" Version="3.3.0" />
+    <PackageReference Include="Umbraco.Cms" Version="11.2.0" />
     <PackageReference Include="Vertica.Umbraco.Headless.Core" Version="1.8.4" />
   </ItemGroup>
 
